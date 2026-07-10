@@ -10,9 +10,9 @@ My [website](https://AgileFederation.com) is AgileFederation.com. And, I have a 
 
 ### Products
 * [synthtek](https://kane-mar.github.io/synthtek/): AI Agent loop with multiple channels including web-ui, commandline (TUI) and messaging (telegram, discord, etc). 
-* [bash-agent](): A minimal text UI agent in under 100 lines of bash.
+* [bash-agent](https://kane-mar.github.io/bash-agent): A minimal text UI agent in under 100 lines of bash.
 * [Resume Prompts](https://kane-mar.github.io/Resume-Prompts-Gaming-the-job-application-process-with-AI): Gaming the job application process with AI.
-* [Skills]([https://github.com/kane-mar](https://kane-mar.github.io)/skills): Essential Scrum skills for Agents including Product Backlogs, Kanban boards, and Collaboration.
+* [Skills](https://kane-mar.github.io/skills): Essential Scrum skills for Agents including Product Backlogs, Kanban boards, and Collaboration.
 
 ---
 
